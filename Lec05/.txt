@@ -1,0 +1,18 @@
+JavaScript me  code do bar chalta hai :
+1. Memory Creation
+2. Code Execution
+// var a = 10;
+
+// fun();
+
+// function fun(){
+//     console.log("hello world");  
+// }
+
+=> Memory Creation  $$   Code Execution
+var a;                   console.log(a);
+fun : functional{
+    console.log(a);       fun();
+}   
+
+
