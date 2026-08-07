@@ -15,3 +15,10 @@ syntax:- (function fun(){})()
 
 # Closure:-
 -->  jab ek function apne bahar ke scope (lexical environment) ke variables ko "yaad" rakhta hai, bhale hi wo bahar ka function execute ho kar khatam ho chuka ho, toh use closure kehte hain.
+
+ya
+ 
+--> function bind with its lexical scope is called closure.
+
+# lexical scope:-
+--> jo scope hai determine karta hai at the time of the declaration.
